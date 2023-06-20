@@ -1,0 +1,1 @@
+# Fork of [AmplifiedNether](https://github.com/MelonHell/AmplifiedNether.git) with 1.19.4 and 1.20 support
